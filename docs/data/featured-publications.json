@@ -421,13 +421,13 @@
   ],
   "metadata": {
     "generatedDate": "2026-01-14",
-    "lastUpdated": "2026-01-14",
-    "totalHistoric": 11,
+    "lastUpdated": "2026-01-28",
+    "totalHistoric": 12,
     "totalContemporary": 5,
-    "totalPublications": 16,
+    "totalPublications": 17,
     "dateRange": "1880-present",
     "primaryLocations": ["Trenton", "Newark", "Jersey City", "Long Branch", "Red Bank"],
-    "source": "Black Press featured entries DRAFT.md",
-    "notes": "Data cleaned and enhanced from draft research document. Includes publications from batches 1-4 of the research project."
+    "source": "Black Press entries_Batch 1.md",
+    "notes": "Data cleaned and enhanced from research document. Includes publications from batches 1-4 of the research project. Featured section updated with real publication data from research."
   }
 }
